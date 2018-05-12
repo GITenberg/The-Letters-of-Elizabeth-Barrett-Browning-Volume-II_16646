@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4780
     wikipedia: http://en.wikipedia.org/wiki/Frederic_G._Kenyon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16646#The-Letters-of-Elizabeth-Barrett-Browning-Volume-II
 gutenberg_issued: '2005-09-04'
 gutenberg_type: Text
 identifiers:
